@@ -1,4 +1,3 @@
-English Term,Arabic (Site/Technical),Phonetic (Saudi/Gulf), 
 Fiber Optics,الألياف البصرية,Al-Alyaf Al-Basariyah, 
 Optical Fiber,ليف بصري,Leef Basari, 
 Single Mode (SM),أحادي النمط,Uhadi Al-Namat, 
